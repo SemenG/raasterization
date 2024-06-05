@@ -1,0 +1,8 @@
+{
+  "center": [250, 250],
+  "radius": 75,
+  "color": [ 0, 255, 0 ],
+  "start_angle": 45,
+  "end_angle": 90,
+  "show_demo":  true
+}
